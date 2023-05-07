@@ -1,0 +1,22 @@
+td.GreenNavy{
+color: darkolivegreen;
+font-style: italic;
+}
+td.Black{
+    color: black;
+    font-style: oblique;
+}
+td.Gray{
+    color: gray;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+td.Green{
+    color: greenyellow;
+}
+td.Yellow{
+    color: yellow;
+}
+td.Red{
+    color: red;
+}
